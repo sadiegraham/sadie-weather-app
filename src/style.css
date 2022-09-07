@@ -23,7 +23,7 @@ footer {
   padding-top: 10px;
 }
 
-.d-flex {
+.flex {
   display: flex;
   justify-content: center;
 }
